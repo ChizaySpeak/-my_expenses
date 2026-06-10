@@ -73,7 +73,7 @@
 
 1. **Скопируйте репозиторий**  
    ```bash
-   git clone https://github.com/DmitroBerezukk/-my_expenses.git
+   git clone https://chizayspeak.github.io/-my_expenses/
 
     Настройте ссылки (опционально)
     – В файле index.html найдите строчку openDonateLink() и замените 'https://boosty.to/chizzayspeak/donate' на вашу ссылку Boosty.
