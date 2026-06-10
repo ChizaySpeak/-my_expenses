@@ -8,7 +8,7 @@
 **Мои финансы** — это простое и красивое мини-приложение для Telegram, которое помогает управлять личным бюджетом, отслеживать подписки, планировать покупки и собирать вишлист.  
 Приложение полностью работает внутри Telegram, адаптируется под тему устройства и сохраняет все данные в облаке Telegram (или локально).
 
-🔗 **Попробовать**: [dmitroberezukk.github.io/-my_expenses/](https://dmitroberezukk.github.io/-my_expenses/)
+🔗 **Попробовать**: [dmitroberezukk.github.io/-my_expenses/](https://github.com/ChizaySpeak/-my_expenses)
 
 ---
 
