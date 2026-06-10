@@ -1,7 +1,7 @@
 # -my_expenses
 💰 Мои финансы — Telegram Mini App
 
-[![GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-blue?logo=githubpages)](https://dmitroberezukk.github.io/-my_expenses/)
+[![GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-blue?logo=githubpages)](https://github.com/ChizaySpeak)
 [![Telegram](https://img.shields.io/badge/Telegram-Mini%20App-2CA5E0?logo=telegram)](https://t.me/my_expenses_table_bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
