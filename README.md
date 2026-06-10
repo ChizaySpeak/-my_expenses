@@ -1,4 +1,4 @@
-# -my_expenses
+# -my_expenses | Мои финансы
 💰 Мои финансы — Telegram Mini App
 
 [![GitHub Pages](https://img.shields.io/badge/hosted%20on-GitHub%20Pages-blue?logo=githubpages)](https://github.com/ChizaySpeak)
